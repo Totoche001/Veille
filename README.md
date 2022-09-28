@@ -14,3 +14,8 @@
 * Fact Checking
 * How last IT actuality?
 * Cryptomonnaie
+* les fonctionnalités core de Burp Suite
+* les tunners SSH et reverse tunnel SSH
+* Unified Kill Chain
+* Stratégie efficace pour aborder un CTF
+* la gestion des backups/sauvegardes
