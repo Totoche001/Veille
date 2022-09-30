@@ -4,6 +4,7 @@
 
 ### Suggestion de veille
 
+* **la reproduction étonnante des limaces rouges**
 * Lapsus$ (Jason)
 * LiFi
 * 5G
@@ -24,4 +25,83 @@
 * OSTIF [ostif.org](https://ostif.org/)
 * ~AWS~ (non mais dis donc, tu crois pas qu'on en a eu assez)
 * PassKey
+* **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
+### Sujets déjà traité
+
+* Apercu des malwares
+* Assange
+* Base de réseaux
+* Bases de données relationelles
+* BlackEye
+* Buffer Overflow
+* Bug Bounty
+* Comment faire la meilleurs veille
+* Cross-Site-Scipting (XSS)
+* CryptoAG
+* Cybersecurity on space
+* Darknet / Tor
+* DeepFake
+* DevSecOps
+* Doomscrolling
+* English Tips and tricks
+* Extensions de sécurité pour Firefox et Chrome
+* Faille Bluetooth
+* Géopolitique des câbles sous-marins
+* Gestion des profils manipulateurs en entreprise
+* Github
+* Google dorks
+* Green IT
+* Introduction aux logiciels libres
+* La blockchain
+* La cryptographie
+* La productivité en télétravail
+* La vision Leibnizienne
+* Lazarus Group
+* le deepweb et les darknets: brève introduction
+* Le télétravail et la sécurité
+* Les algorithmes
+* Les bots
+* Les certifications de la cyber
+* Les cookies
+* Les faux positifs
+* Les indicateurs de compromissions (IoC)
+* Les métiers de la cyber-sécurité
+* Les proxys
+* Les tokens
+* L'ordinateur quantique
+* Mauvaise pratique en python
+* Metasploit
+* Methodology pentesting
+* NCSI (Nationale Cybersecurity Index)
+* Nessus
+* Netcat
+* Obfuscation de malware
+* OWASP
+* Permission Linux
+* Petite histoire de la cybersécurité
+* Presentation hacker
+* Présenter des slides dans le terminale
+* PWN2Own
+* Raspberry Pi
+* ReactJS
+* Regex
+* Retro-Engineering
+* Security Information and Event Management
+* Shodan API
+* Solution de détection et de réponse contre les menaces
+* Surveillance d'état en ligne
+* Système de fichiers Linux
+* Téléversement de vulnérabilités
+* Terminal / Console / Shell
+* Threat Hunting
+* TMUX
+* Travaux de groupe
+* un CTF en 15 min (mais oui c'est claire)
+* Update Kali Linux
+* Variables superglobales en PHP
+* Visual Scripting
+* Vol de données via smartphone
+* VPN
+* Wireshark
+* Workshop crochetage
