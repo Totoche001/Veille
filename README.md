@@ -8,7 +8,7 @@
 * Lapsus$ (Jason)
 * LiFi
 * 5G
-* Wifi 6
+* Wifi 6 (Jérémy)
 * IPV6
 * ENISA
 * EUSPA
