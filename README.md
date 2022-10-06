@@ -40,6 +40,7 @@
 * Comment faire la meilleurs veille
 * Cross-Site-Scipting (XSS)
 * CryptoAG
+* Crypto Parties
 * Cybersecurity on space
 * Darknet / Tor
 * DeepFake
