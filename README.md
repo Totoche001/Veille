@@ -5,7 +5,6 @@
 ### Suggestion de veille
 
 * **la reproduction étonnante des limaces rouges**
-* Lapsus$ (Jason)
 * LiFi
 * 5G
 * Wifi 6 (Jérémy)
@@ -61,6 +60,7 @@
 * La cryptographie
 * La productivité en télétravail
 * La vision Leibnizienne
+* Lapsus$
 * Lazarus Group
 * le deepweb et les darknets: brève introduction
 * Le télétravail et la sécurité
