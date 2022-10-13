@@ -29,6 +29,7 @@
 
 ### Sujets déjà traité
 
+* Aide pour les stages
 * Apercu des malwares
 * Assange
 * Base de réseaux
@@ -44,6 +45,7 @@
 * Darknet / Tor
 * DeepFake
 * DevSecOps
+* Digital Forensic
 * Doomscrolling
 * English Tips and tricks
 * Ethique et morale
