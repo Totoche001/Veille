@@ -51,6 +51,7 @@
 * Ethique et morale
 * Extensions de sécurité pour Firefox et Chrome
 * Faille Bluetooth
+* Flipper zero
 * Géopolitique des câbles sous-marins
 * Gestion des profils manipulateurs en entreprise
 * Github
@@ -94,6 +95,7 @@
 * Raspberry Pi
 * ReactJS
 * Regex
+* Réponse aux incidents
 * Retro-Engineering
 * Security Information and Event Management
 * Shodan API
