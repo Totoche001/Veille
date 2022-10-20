@@ -5,10 +5,8 @@
 ### Suggestion de veille
 
 * **la reproduction étonnante des limaces rouges**
-* LiFi
-* 5G
-* Wifi 6 (Jérémy)
-* IPV6
+
+* Wifi 6bis (Jérémy)
 * ENISA
 * EUSPA
 * Fact Checking
@@ -77,6 +75,7 @@
 * Les métiers de la cyber-sécurité
 * Les proxys
 * Les tokens
+* Les technologies émergentes (5G, lifi, wifi6, IPV6)
 * L'autisme
 * L'ordinateur quantique
 * Mauvaise pratique en python
