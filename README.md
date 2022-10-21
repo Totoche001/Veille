@@ -6,7 +6,7 @@
 
 * **la reproduction étonnante des limaces rouges**
 
-* Wifi 6bis (Jérémy)
+* Starlink (Jeremy)
 * ENISA
 * EUSPA
 * Fact Checking
@@ -23,6 +23,11 @@
 * ~AWS~ (non mais dis donc, tu crois pas qu'on en a eu assez)
 * PassKey
 * Active Directory
+* Hardware hacking (Tibaut)
+* Rédiger des rapports d'analyse et d'intrusion (Karima)
+* Pénétration physique: créer une clef à partir d'une photo (Corinne)
+* Zero trust (Bilale)
+
 * **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
 ### Sujets déjà traité
@@ -44,6 +49,7 @@
 * DeepFake
 * DevSecOps
 * Digital Forensic
+* Docker (en attente de la vidéo)
 * Doomscrolling
 * English Tips and tricks
 * Ethique et morale
