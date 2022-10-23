@@ -27,6 +27,8 @@
 * Rédiger des rapports d'analyse et d'intrusion (Karima)
 * Pénétration physique: créer une clef à partir d'une photo (Corinne)
 * Zero trust (Bilale)
+* Unified Killed Chain (François)
+* PRISM (Melissa)
 
 * **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
@@ -40,6 +42,7 @@
 * BlackEye
 * Buffer Overflow
 * Bug Bounty
+* Command and Control (C2)
 * Comment faire la meilleurs veille
 * Cross-Site-Scipting (XSS)
 * CryptoAG
