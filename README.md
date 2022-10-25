@@ -22,13 +22,17 @@
 * OSTIF [ostif.org](https://ostif.org/)
 * ~AWS~ (non mais dis donc, tu crois pas qu'on en a eu assez)
 * PassKey
-* Active Directory
-* Hardware hacking (Tibaut)
+* Active Directory 
 * Rédiger des rapports d'analyse et d'intrusion (Karima)
 * Pénétration physique: créer une clef à partir d'une photo (Corinne)
 * Zero trust (Bilale)
 * Unified Killed Chain (François)
 * PRISM (Melissa)
+* Mitre (Maria)
+* Yubikey
+* Multifactor Authentification (MFA)
+* NFC
+* RFID
 
 * **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
@@ -64,6 +68,7 @@
 * Github
 * Google dorks
 * Green IT
+* Hardware hacking 
 * Introduction aux logiciels libres
 * Introduction au CTF
 * Kerberos
