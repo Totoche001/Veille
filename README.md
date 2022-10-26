@@ -6,21 +6,18 @@
 
 * **la reproduction étonnante des limaces rouges**
 
-* Starlink (Jeremy)
 * ENISA
 * EUSPA
 * Fact Checking
 * How last IT actuality?
 * Cryptomonnaie
 * les fonctionnalités core de Burp Suite
-* les tunners SSH et reverse tunnel SSH
-* Unified Kill Chain
+* les tunnels SSH et reverse tunnel SSH
 * Stratégie efficace pour aborder un CTF
 * la gestion des backups/sauvegardes
 * Outils de sécurisation de sa vie privée (Tails, veracrypt, protonmail, tuttanota, mailfence,...) [Veracrypt](https://www.nextinpact.com/article/25539/91703-veracrypt-comment-chiffrer-et-cacher-fichiers-disque-dur-externe-ou-clef-usb)
 * Scylla Investigation [Humansecurity/de Charybdis à Scylla](https://www.humansecurity.com/learn/blog/poseidons-offspring-charybdis-and-scylla)
 * OSTIF [ostif.org](https://ostif.org/)
-* ~AWS~ (non mais dis donc, tu crois pas qu'on en a eu assez)
 * PassKey
 * Active Directory 
 * Rédiger des rapports d'analyse et d'intrusion (Karima)
@@ -28,7 +25,6 @@
 * Zero trust (Bilale)
 * Unified Killed Chain (François)
 * PRISM (Melissa)
-* Mitre (Maria)
 * Yubikey
 * Multifactor Authentification (MFA)
 * NFC
@@ -95,6 +91,7 @@
 * Mauvaise pratique en python
 * Metasploit
 * Methodology pentesting
+* Mitre
 * NCSI (Nationale Cybersecurity Index)
 * Nessus
 * Netcat
@@ -113,6 +110,7 @@
 * Security Information and Event Management
 * Shodan API
 * Solution de détection et de réponse contre les menaces
+* Starlink
 * Surveillance d'état en ligne
 * Système de fichiers Linux
 * Téléversement de vulnérabilités
