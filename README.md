@@ -21,7 +21,7 @@
 * Active Directory 
 * Rédiger des rapports d'analyse et d'intrusion (Karima)
 * Pénétration physique: créer une clef à partir d'une photo (Corinne)
-* Unified Killed Chain (François)
+* Unified Killed Chain
 * PRISM (Melissa)
 * Yubikey
 * Multifactor Authentification (MFA)
@@ -31,6 +31,7 @@
 * Tacacs
 * Ransomware Protection
 * Sans.org
+
 * **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
 ### Sujets déjà traité
@@ -126,6 +127,7 @@
 * Visual Scripting
 * Vol de données via smartphone
 * VPN
+* WAF
 * Wireshark
 * Workshop crochetage
 * Zero Trust
