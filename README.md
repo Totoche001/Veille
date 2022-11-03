@@ -22,7 +22,6 @@
 * Rédiger des rapports d'analyse et d'intrusion (Karima)
 * Pénétration physique: créer une clef à partir d'une photo (Corinne)
 * Unified Killed Chain
-* PRISM (Melissa)
 * Yubikey
 * Multifactor Authentification (MFA)
 * NFC
@@ -104,6 +103,7 @@
 * Petite histoire de la cybersécurité
 * Presentation hacker
 * Présenter des slides dans le terminale
+* PRISM
 * PWN2Own
 * Raspberry Pi
 * ReactJS
@@ -113,6 +113,7 @@
 * Security Information and Event Management
 * Shodan API
 * Solution de détection et de réponse contre les menaces
+* SSH Tunelling
 * Starlink
 * Surveillance d'état en ligne
 * Système de fichiers Linux
