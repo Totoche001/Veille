@@ -18,17 +18,19 @@
 * Outils de sécurisation de sa vie privée (Tails, veracrypt, protonmail, tuttanota, mailfence,...) [Veracrypt](https://www.nextinpact.com/article/25539/91703-veracrypt-comment-chiffrer-et-cacher-fichiers-disque-dur-externe-ou-clef-usb)
 * Scylla Investigation [Humansecurity/de Charybdis à Scylla](https://www.humansecurity.com/learn/blog/poseidons-offspring-charybdis-and-scylla)
 * OSTIF [ostif.org](https://ostif.org/)
-* PassKey
 * Active Directory 
 * Rédiger des rapports d'analyse et d'intrusion (Karima)
 * Pénétration physique: créer une clef à partir d'une photo (Corinne)
-* Zero trust (Bilale)
-* Unified Killed Chain (François)
+* Unified Killed Chain
 * PRISM (Melissa)
 * Yubikey
 * Multifactor Authentification (MFA)
 * NFC
 * RFID
+* RFC
+* Tacacs
+* Ransomware Protection
+* Sans.org
 
 * **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
@@ -97,6 +99,7 @@
 * Netcat
 * Obfuscation de malware
 * OWASP
+* Passkeys
 * Permission Linux
 * Petite histoire de la cybersécurité
 * Presentation hacker
@@ -124,5 +127,7 @@
 * Visual Scripting
 * Vol de données via smartphone
 * VPN
+* WAF
 * Wireshark
 * Workshop crochetage
+* Zero Trust
