@@ -12,7 +12,6 @@
 * How last IT actuality?
 * Cryptomonnaie
 * les fonctionnalités core de Burp Suite
-* les tunnels SSH et reverse tunnel SSH
 * Stratégie efficace pour aborder un CTF
 * la gestion des backups/sauvegardes
 * Outils de sécurisation de sa vie privée (Tails, veracrypt, protonmail, tuttanota, mailfence,...) [Veracrypt](https://www.nextinpact.com/article/25539/91703-veracrypt-comment-chiffrer-et-cacher-fichiers-disque-dur-externe-ou-clef-usb)
@@ -30,6 +29,7 @@
 * Tacacs
 * Ransomware Protection
 * Sans.org
+* Shadow IT
 
 * **Chez l’Antechinus, la reproduction tue** (quand on met à jour après minuit😄)
 
