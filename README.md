@@ -23,8 +23,6 @@
 * Unified Killed Chain
 * Yubikey
 * Multifactor Authentification (MFA)
-* NFC
-* RFID
 * RFC
 * Tacacs
 * Ransomware Protection
@@ -96,6 +94,7 @@
 * NCSI (Nationale Cybersecurity Index)
 * Nessus
 * Netcat
+* Networking
 * Obfuscation de malware
 * OWASP
 * Passkeys
@@ -105,9 +104,11 @@
 * Présenter des slides dans le terminale
 * PRISM
 * PWN2Own
+* Rapport d'audit et de pentesting
 * Raspberry Pi
 * ReactJS
 * Regex
+* RFID et NFC
 * Réponse aux incidents
 * Retro-Engineering
 * Security Information and Event Management
