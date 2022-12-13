@@ -50,11 +50,13 @@
 * Darknet / Tor
 * DeepFake
 * DevSecOps
+* DPAPI (dit papi)
 * Digital Forensic
 * Docker (en attente de la vidéo)
 * Doomscrolling
 * English Tips and tricks
 * Ethique et morale
+* European Cybersecurity Norms & Framework
 * Extensions de sécurité pour Firefox et Chrome
 * Faille Bluetooth
 * Flipper zero
@@ -64,8 +66,11 @@
 * Google dorks
 * Green IT
 * Hardware hacking 
+* IAM
+* Introduction à l'analyse de malware
 * Introduction aux logiciels libres
 * Introduction au CTF
+* IoT et protocole MQTT
 * Kerberos
 * La blockchain
 * La cryptographie
@@ -95,14 +100,17 @@
 * Nessus
 * Netcat
 * Networking
+* New pentest tools (novembre 2022)
 * Obfuscation de malware
 * OWASP
+* Opera1er
 * Passkeys
 * Permission Linux
 * Petite histoire de la cybersécurité
 * Presentation hacker
 * Présenter des slides dans le terminale
 * PRISM
+* ProxyNotShell
 * PWN2Own
 * Rapport d'audit et de pentesting
 * Raspberry Pi
