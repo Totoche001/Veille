@@ -6,7 +6,6 @@
 
 * **la reproduction étonnante des limaces rouges**
 
-* ENISA
 * EUSPA
 * Fact Checking
 * How last IT actuality?
@@ -18,12 +17,10 @@
 * Scylla Investigation [Humansecurity/de Charybdis à Scylla](https://www.humansecurity.com/learn/blog/poseidons-offspring-charybdis-and-scylla)
 * OSTIF [ostif.org](https://ostif.org/)
 * Active Directory 
-* Rédiger des rapports d'analyse et d'intrusion (Karima)
-* Pénétration physique: créer une clef à partir d'une photo (Corinne)
+* Pénétration physique: créer une clef à partir d'une photo
 * Unified Killed Chain
 * Yubikey
 * Multifactor Authentification (MFA)
-* RFC
 * Tacacs
 * Ransomware Protection
 * Sans.org
